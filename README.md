@@ -2,7 +2,7 @@
 This script is small poem scraping library for antoloji.com.
 
 # Installation
-Go project directory and
+Execute following comment in project directory
 ```
 npm install
 ```
