@@ -1,0 +1,13 @@
+{
+  "name": "NodejsConsoleApp1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "hasancelik",
+    "email": ""
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0"
+  }
+}
